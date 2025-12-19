@@ -4,7 +4,7 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
 object ApiConfig {
-    private const val BASE_URL = "https://reqres.in/"
+    private const val BASE_URL = "https://raw.githubusercontent.com/girfa/testapi/refs/heads/main/"
 
     fun getApiService(): ApiService {
         val retrofit = Retrofit.Builder()
