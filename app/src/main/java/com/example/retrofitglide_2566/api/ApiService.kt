@@ -1,6 +1,6 @@
 package com.example.retrofitglide_2566.api
 
-import com.example.retrofitglide.user.UserResponse
+import com.example.retrofitglide_2566.db.UserResponse
 import retrofit2.Call
 import retrofit2.http.GET
 

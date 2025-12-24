@@ -1,4 +1,4 @@
-package com.example.retrofitglide_2566.api
+package com.example.retrofitglide_2566.db
 
 data class UserResponse(
     val data: List<User>

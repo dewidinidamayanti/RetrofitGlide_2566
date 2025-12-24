@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.retrofitglide_2566.api.ApiConfig
-import com.example.retrofitglide_2566.api.UserResponse
+import com.example.retrofitglide_2566.db.UserResponse
 import com.example.retrofitglide_2566.db.UserAdapter
 import retrofit2.Call
 import retrofit2.Callback

@@ -10,7 +10,6 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.retrofitglide_2566.DetailActivity
 import com.example.retrofitglide_2566.R
-import com.example.retrofitglide_2566.api.User
 
 class UserAdapter : RecyclerView.Adapter<UserAdapter.ViewHolder>() {
 
